@@ -1,9 +1,0 @@
-[build-system]
-requires = ["maturin>=1.7.0"]
-build-backend = "maturin"
-
-[project]
-name = "fast_nlp"
-version = "0.1.0"
-description = "Python bindings for a Rust-based NLP library"
-authors = [ {name = "Elijah Manda", email = "elijahmandajc@gmail.com"} ]
